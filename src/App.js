@@ -1,9 +1,9 @@
 import React from 'react'
-import Pager from "./One"
+import Oner from "./One"
 
 const Nav=()=>{
     return(
-        <Pager/>
+        <Oner/>
     )
 }
 
